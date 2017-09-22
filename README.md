@@ -1,2 +1,2 @@
 # veragaoo.github.io
-Personal Web
+Personal Website
