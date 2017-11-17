@@ -13,9 +13,11 @@ theme_settings:
 
   # Header and footer text
   header_text: >
+     <p> </p>
      <p>嘿嘿嘿嘿！</p>
 
-     <p>Varegaoo</p>
+     <p>Varegaoo‘s Blog</p>
+     <p> </P><br/><br/><br/>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
